@@ -52,7 +52,7 @@ Each week folder contains the exercise sheet (PDF), the Jupyter notebooks and a 
 
 - Open a notebook in VS Code and select the Python kernel of the Codespace (upper right corner -> Select Kernel).
 - Run the notebooks of a week in the order given in the exercise sheet, as some notebooks use the output of other notebooks.
-- To export a notebook as html-file (submission on Moodle), use the menu of the notebook in VS Code (`...` -> Export -> HTML) or the terminal:
+- To export a notebook as html-file, use the menu of the notebook in VS Code (`...` -> Export -> HTML) or the terminal:
 
 ```bash
 jupyter nbconvert --to html Week_08/apartments_data_preparation_zuerich.ipynb
